@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project was taken from [this tutorial](https://www.youtube.com/watch?v=WajtPtLAg-o&t=858s)
+This project was taken from [this tutorial](https://www.youtube.com/watch?v=WajtPtLAg-o&t=858s) and use additional symbols are taken from [here](https://github.com/syauqy/handsign-tensorflow-gatsby)
 
 ## The very first thing to do
 
